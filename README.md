@@ -31,4 +31,4 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/j-soto-first-blog/ "Site Link") to view.
+5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-TinDog-Start-master/ "Site Link") to view.
